@@ -1,0 +1,110 @@
+body{
+    background: linear-gradient(-275deg, rgb(109, 2, 2), rgb(230, 5, 5));
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor{
+    background-color:rgb(255, 255, 255);
+    position: absolute;
+    border: rgb(0, 0, 0) 2px solid;
+    width: 450px;
+    height: 550px;
+    border-radius:4%;
+}
+
+.imagen2 {
+    width: 120px;
+    height: 120px;
+}
+
+.imagen3 {
+    width: 450px;
+    height: 200px;
+    border-radius:5%;
+    border-color: rgb(0, 0, 0) 5px solid;
+}
+
+.imagen4{
+    left: 10%;
+    width: 50px;
+    height: 50px;
+}
+
+.imagen5{
+    left: 10%;
+    width: 85px;
+    height: 30px;
+}
+
+.imagen6{
+    left: 10%;
+    width: 50px;
+    height: 50px;
+}
+
+.icon {
+    padding: 5px;
+    position: absolute; 
+    top: 18%; 
+    left: 36.5%; 
+    border-radius:80%;
+}
+
+.texto{
+    text-align: center;
+    border: rgb(255, 255, 255) 0px solid;
+    width: 450px;
+    height: 280px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+}
+
+.texto2{
+    text-align: center;
+    top: -8%;
+    border: rgb(255, 255, 255) 0px solid;
+    width: 450px;
+    height: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+.texto3{
+    text-align: center;
+    top: -10%;
+    left: 10%;
+    border: rgb(0, 0, 0) 0px solid;
+    width: 350px;
+    height: 150px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+
+.boton1{
+    border: rgb(0, 0, 0) 0px solid;
+    left: 25%;
+    top: 92%;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+}
+
+.boton2{
+    border: rgb(0, 0, 0) 0px solid;
+    left: 40%;
+    top: 95%;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
+
+.boton3{
+    border: rgb(0, 0, 0) 0px solid;
+    left: 61%;
+    top: 91.5%;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
